@@ -1,5 +1,6 @@
 ### Hi there I'm Ahmed 👋
 
+<h3> 👨🏾‍💻 &nbsp;About Me </h3>
 A little about myself
  • 🎓 Studied Software Engineering/Development @ Coding Dojo Bootcamp
  • 🦾 Front-End focused with a Full-Stack skills toolbelt

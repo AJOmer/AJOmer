@@ -1,11 +1,8 @@
 ### Hi there I'm Ahmed 👋
 
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
-- 🤔 &nbsp; Exploring new technologies and solving problems.
-- 🎓 &nbsp; Studied Software Engineering/Development @ Coding Dojo Bootcamp.
-- 💼 &nbsp; Looking for work.
-- 🌱 &nbsp; Learning more about React & Python.
-
+-🎓 &nbsp Studied Software Engineering/Development @ Coding Dojo Bootcamp                                                                                                          -🦾 Front-End focused with a Full-Stack skills toolbelt
+-💼 Currently looking for work
 
 [![Ahmed Omer's github stats](https://github-readme-stats.vercel.app/api?username=AJOmer&count_private=true&show_icons=true)](https://github.com/AJOmer/github-readme-stats)
 <!--
@@ -22,5 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🎓 &nbsp Studied Software Engineering/Development @ Coding Dojo Bootcamp                                                                                                          -🦾 Front-End focused with a Full-Stack skills toolbelt
--💼 Currently looking for work
+

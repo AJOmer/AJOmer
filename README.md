@@ -1,9 +1,9 @@
 ### Hi there I'm Ahmed 👋
 
 A little about myself
-  🎓 Studied Software Engineering/Development @ Coding Dojo Bootcamp
-  🦾 Front-End focused with a Full-Stack skills toolbelt
-  💼 Currently looking for work
+ • 🎓 Studied Software Engineering/Development @ Coding Dojo Bootcamp
+ • 🦾 Front-End focused with a Full-Stack skills toolbelt
+ • 💼 Currently looking for work
 
 [![Ahmed Omer's github stats](https://github-readme-stats.vercel.app/api?username=AJOmer&count_private=true&show_icons=true)](https://github.com/AJOmer/github-readme-stats)
 <!--
